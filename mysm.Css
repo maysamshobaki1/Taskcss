@@ -1,0 +1,14 @@
+.Services{
+ 
+text-align: center;
+
+}
+p{
+    color: gray;
+}
+.Service{
+    display: inline-block;
+    width:20%;
+
+   
+}
